@@ -209,3 +209,117 @@ Received Import Request.
   path: Assets/Scripts
   artifactKey: Guid(935f238cbeeba4b469a14fdc9c218326) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Scripts using Guid(935f238cbeeba4b469a14fdc9c218326) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a69d894105b0a50376d91a6a18a4d644') in 0.000832 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 471.448391 seconds.
+  path: Assets/Scenes
+  artifactKey: Guid(6ea315d0fd7389c41b19996891e99ae3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(6ea315d0fd7389c41b19996891e99ae3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8193726cff86800c54781cdc6d54904') in 0.049465 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 32.103390 seconds.
+  path: Assets/Scenes/GameScene.unity
+  artifactKey: Guid(c9d4f2a11b9d24406ac3ea2d790f48bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/GameScene.unity using Guid(c9d4f2a11b9d24406ac3ea2d790f48bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05241e711ea85bb3c97660905a25071b') in 0.007849 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.770480 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e55ccaa32d8e5c1de03c07a5412c8c3c') in 0.003133 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 9.360868 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aef1c499743dff09ba4fba55b86aed92') in 0.004607 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 16.208590 seconds.
+  path: Assets/Scenes/MenuScene.unity
+  artifactKey: Guid(1f0ddac7f1ab346aba1474e75982a6a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/MenuScene.unity using Guid(1f0ddac7f1ab346aba1474e75982a6a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82862422b5eb672f4826cfd9c2d96d43') in 0.003727 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 395.343678 seconds.
+  path: Assets/Galaxia Sprite Pack #1/Effects
+  artifactKey: Guid(d43ebdbac3c505549aa66966fe144a84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Galaxia Sprite Pack #1/Effects using Guid(d43ebdbac3c505549aa66966fe144a84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4932898449ee663359fb55d3325053f6') in 0.025686 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.001469 seconds.
+  path: Assets/Galaxia Sprite Pack #1/Effects/BulletBombSpriteSheetYellow.png
+  artifactKey: Guid(caa07a017431edc43866c47b6f37a5bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Galaxia Sprite Pack #1/Effects/BulletBombSpriteSheetYellow.png using Guid(caa07a017431edc43866c47b6f37a5bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12eecf2c685069ef44f8e0fd7fce1e0e') in 4.008345 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.002962 seconds.
+  path: Assets/Galaxia Sprite Pack #1/Effects/BulletsSpriteSheetGreen.png
+  artifactKey: Guid(34117c1e0c2d27d43973517e619028e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Galaxia Sprite Pack #1/Effects/BulletsSpriteSheetGreen.png using Guid(34117c1e0c2d27d43973517e619028e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2901cfb5d8afc83e0e15c7f5e6063fc8') in 0.101867 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000065 seconds.
+  path: Assets/Galaxia Sprite Pack #1/Effects/BulletsSpriteSheetRed.png
+  artifactKey: Guid(d3abe5c405d8ae041a1c151d9ba3c2c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Galaxia Sprite Pack #1/Effects/BulletsSpriteSheetRed.png using Guid(d3abe5c405d8ae041a1c151d9ba3c2c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f302bc015ba5fb34fd191de8b169370') in 0.020200 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000054 seconds.
+  path: Assets/Galaxia Sprite Pack #1/Effects/LaserSpriteSheetBlue.png
+  artifactKey: Guid(d985ee05041c4304f83ce9b1e1c6f885) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Galaxia Sprite Pack #1/Effects/LaserSpriteSheetBlue.png using Guid(d985ee05041c4304f83ce9b1e1c6f885) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14718c8cb9a3d0025bb05380c5fdac41') in 0.021228 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000087 seconds.
+  path: Assets/Galaxia Sprite Pack #1/Effects/BulletsSpriteSheetBlue.png
+  artifactKey: Guid(a9450bfa7931d2a4399a9c70edcaa576) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Galaxia Sprite Pack #1/Effects/BulletsSpriteSheetBlue.png using Guid(a9450bfa7931d2a4399a9c70edcaa576) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc870cec57a387b5a3cca459dd7907c3') in 0.018895 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000067 seconds.
+  path: Assets/Galaxia Sprite Pack #1/Effects/BulletBombSpriteSheetPurple.png
+  artifactKey: Guid(593c7c564adcda74fbc675230116db6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Galaxia Sprite Pack #1/Effects/BulletBombSpriteSheetPurple.png using Guid(593c7c564adcda74fbc675230116db6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f50d3d11a8c53bf660a5a31b3826855') in 0.020886 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.427020 seconds.
+  path: Assets/Galaxia Sprite Pack #1/Enemy/idle_bomber_green.png
+  artifactKey: Guid(56333afa39cd62b4298f591910f04bc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Galaxia Sprite Pack #1/Enemy/idle_bomber_green.png using Guid(56333afa39cd62b4298f591910f04bc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4a77d690028472400b0b8a414d4b7d5') in 0.085124 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000156 seconds.
+  path: Assets/Galaxia Sprite Pack #1/Enemy/idle_orb_blue.png
+  artifactKey: Guid(36da0b7bdceee7a48851d5dd2aefe98f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Galaxia Sprite Pack #1/Enemy/idle_orb_blue.png using Guid(36da0b7bdceee7a48851d5dd2aefe98f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d4bec91d22de4923119f170c4913f4d') in 0.017058 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000108 seconds.
+  path: Assets/Galaxia Sprite Pack #1/Enemy/idle_heavy_yellow.png
+  artifactKey: Guid(ec56ac9d9347f984dad9bde8e4f3ae4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Galaxia Sprite Pack #1/Enemy/idle_heavy_yellow.png using Guid(ec56ac9d9347f984dad9bde8e4f3ae4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fade4fc4315be9d07442dcca62e844be') in 0.014232 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000155 seconds.
+  path: Assets/Galaxia Sprite Pack #1/Enemy/idle_orb_red.png
+  artifactKey: Guid(4c8a2444f139c1447b5bd181110e264b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Galaxia Sprite Pack #1/Enemy/idle_orb_red.png using Guid(4c8a2444f139c1447b5bd181110e264b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '329df35909979346c734571fa4ef04a7') in 0.014643 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000100 seconds.
+  path: Assets/Galaxia Sprite Pack #1/Enemy/idle_orb_green.png
+  artifactKey: Guid(a8b9579cc05ec924b8db3e8422459a0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Galaxia Sprite Pack #1/Enemy/idle_orb_green.png using Guid(a8b9579cc05ec924b8db3e8422459a0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f3a6dd04ce4798e2f41995d24cbbbf4') in 0.016508 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000083 seconds.
+  path: Assets/Galaxia Sprite Pack #1/Enemy/idle_heavy_green.png
+  artifactKey: Guid(767780ce78b8bdf4ebcb0231280c9655) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Galaxia Sprite Pack #1/Enemy/idle_heavy_green.png using Guid(767780ce78b8bdf4ebcb0231280c9655) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '785593cfe8387f83f074e216020e2358') in 0.010650 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.712834 seconds.
+  path: Assets/Galaxia Sprite Pack #1/Player/idle_player_basic.png
+  artifactKey: Guid(7b52acf0fd6dff8419cf32e5c13881f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Galaxia Sprite Pack #1/Player/idle_player_basic.png using Guid(7b52acf0fd6dff8419cf32e5c13881f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92d239abcacd9b8217dd6f0ea365f274') in 0.023566 seconds 
