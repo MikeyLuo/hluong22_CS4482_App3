@@ -1,5 +1,6 @@
 # 2D Space shooter made in Unity
-# For my App 3 game that I will be working on independently, I will be creating my own 2D
+
+For my App 3 game that I will be working on independently, I will be creating my own 2D
 version of space shooter. The game will be designed like any regular space shooter game. The
 user will only be allowed to move horizontally via. Keyboard input and will have to
 destroy/avoid incoming enemy aircraft. As the user destroys enemy aircrafts, they will be
