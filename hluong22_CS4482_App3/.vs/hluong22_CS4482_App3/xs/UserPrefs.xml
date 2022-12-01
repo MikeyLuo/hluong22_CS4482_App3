@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{0B256DF3-BCA0-205F-BCCC-3677BC04FCD9}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/backgroundScroll.cs">
+    <Files>
+      <File FileName="Assets/Scripts/backgroundScroll.cs" Line="26" Column="73" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="hluong22_CS4482_App3" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="backgroundScroll.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="c9a67f8f-cbc6-4ed6-9323-147ddd217255" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

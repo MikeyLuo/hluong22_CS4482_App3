@@ -1,0 +1,266 @@
+Unity Editor version:    2021.3.9f1 (ad3870b89536)
+Branch:                  2021.3/staging
+Build type:              Release
+Batch mode:              YES
+macOS version:           Version 12.3 (Build 21E230)
+Darwin version:          21.4.0
+Architecture:            x86_64
+Running under Rosetta:   YES
+Available memory:        8192 MB
+Using pre-set license
+Pro License: YES
+
+COMMAND LINE ARGUMENTS:
+/Users/michaeluong/FourthYear/2021.3.9f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker1
+-projectPath
+/Users/michaeluong/Documents/GitHub/hluong22_CS4482_App3/hluong22_CS4482_App3
+-logFile
+Logs/AssetImportWorker1.log
+-srvPort
+55043
+Successfully changed project path to: /Users/michaeluong/Documents/GitHub/hluong22_CS4482_App3/hluong22_CS4482_App3
+/Users/michaeluong/Documents/GitHub/hluong22_CS4482_App3/hluong22_CS4482_App3
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Refreshing native plugins compatible for Editor in 99.75 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.3.9f1 (ad3870b89536)
+[Subsystems] Discovering subsystems at path /Users/michaeluong/FourthYear/2021.3.9f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/michaeluong/Documents/GitHub/hluong22_CS4482_App3/hluong22_CS4482_App3/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+ preferred device: Apple M1 (high power)
+Metal devices available: 1
+0: Apple M1 (high power)
+Using device Apple M1 (high power)
+Initializing Metal device caps: Apple M1
+Initialize mono
+Mono path[0] = '/Users/michaeluong/FourthYear/2021.3.9f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Users/michaeluong/FourthYear/2021.3.9f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit-macos'
+Mono config path = '/Users/michaeluong/FourthYear/2021.3.9f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56445
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Users/michaeluong/FourthYear/2021.3.9f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: /Users/michaeluong/FourthYear/2021.3.9f1/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Registered in 0.001630 seconds.
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 112.10 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.471 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2479ms)
+		BeginReloadAssembly (252ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (3ms)
+		EndReloadAssembly (1855ms)
+			LoadAssemblies (250ms)
+			RebuildTransferFunctionScriptingTraits (1ms)
+			SetupTypeCache (179ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (41ms)
+			SetupLoadedEditorAssemblies (1399ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (281ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (112ms)
+				BeforeProcessingInitializeOnLoad (17ms)
+				ProcessInitializeOnLoadAttributes (566ms)
+				ProcessInitializeOnLoadMethodAttributes (416ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (6ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.007835 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/michaeluong/Documents/GitHub/hluong22_CS4482_App3/hluong22_CS4482_App3/Library/PackageCache/com.unity.visualscripting@1.7.8/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /Users/michaeluong/Documents/GitHub/hluong22_CS4482_App3/hluong22_CS4482_App3/Library/PackageCache/com.unity.visualscripting@1.7.8/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 3.66 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.074 seconds
+Domain Reload Profiling:
+	ReloadAssembly (4081ms)
+		BeginReloadAssembly (447ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (44ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (181ms)
+		EndReloadAssembly (3174ms)
+			LoadAssemblies (185ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (477ms)
+			ReleaseScriptCaches (49ms)
+			RebuildScriptCaches (126ms)
+			SetupLoadedEditorAssemblies (1993ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (105ms)
+				SetLoadedEditorAssemblies (2ms)
+				RefreshPlugins (4ms)
+				BeforeProcessingInitializeOnLoad (214ms)
+				ProcessInitializeOnLoadAttributes (1512ms)
+				ProcessInitializeOnLoadMethodAttributes (155ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (12ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launching external process: /Users/michaeluong/FourthYear/2021.3.9f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.21 seconds
+Refreshing native plugins compatible for Editor in 0.74 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3380 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 27 unused Assets / (95.1 KB). Loaded Objects now: 3839.
+Memory consumption went from 234.2 MB to 234.1 MB.
+Total: 23.968042 ms (FindLiveObjects: 2.795375 ms CreateObjectMapping: 0.147750 ms MarkObjects: 20.828916 ms  DeleteObjects: 0.194834 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 2064363.545277 seconds.
+  path: Assets/New Folder 1
+  artifactKey: Guid(d12f15dec28834183aab1ef5b4058eb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Folder 1 using Guid(d12f15dec28834183aab1ef5b4058eb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c9a44bae5096a44f9e0fe80a513c7a0') in 0.026524 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 953.587427 seconds.
+  path: Assets/Galaxia Sprite Pack #1/Effects/BulletBombSpriteSheetBlue.png
+  artifactKey: Guid(fb49bbb3e2b49674f98799696c31c86c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Galaxia Sprite Pack #1/Effects/BulletBombSpriteSheetBlue.png using Guid(fb49bbb3e2b49674f98799696c31c86c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba4a5dfbad2d0374ac98d726f0938af2') in 3.742569 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.005402 seconds.
+  path: Assets/Galaxia Sprite Pack #1/Effects/BulletsSpriteSheetPurple.png
+  artifactKey: Guid(63497777be1c2a3468333a9fd29c6036) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Galaxia Sprite Pack #1/Effects/BulletsSpriteSheetPurple.png using Guid(63497777be1c2a3468333a9fd29c6036) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d566900fe3e752d352dbd2a6f6ae9af') in 0.057858 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000080 seconds.
+  path: Assets/Galaxia Sprite Pack #1/Effects/BulletBombSpriteSheetGreen.png
+  artifactKey: Guid(c4b06c20a938a6e46949e8faac79b20e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Galaxia Sprite Pack #1/Effects/BulletBombSpriteSheetGreen.png using Guid(c4b06c20a938a6e46949e8faac79b20e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f2dc97846bd51b0a2d570610f3167c8') in 0.018560 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000053 seconds.
+  path: Assets/Galaxia Sprite Pack #1/Effects/BulletBombSpriteSheetRed.png
+  artifactKey: Guid(4b3cde31bdef54c458f0b04071d88cc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Galaxia Sprite Pack #1/Effects/BulletBombSpriteSheetRed.png using Guid(4b3cde31bdef54c458f0b04071d88cc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ef79309ebf271e7ef13b3ac0e9c458a') in 0.023271 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000058 seconds.
+  path: Assets/Galaxia Sprite Pack #1/Effects/BulletsSpriteSheetYellow.png
+  artifactKey: Guid(c05e8171e1e97804ea3c456f394ba25a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Galaxia Sprite Pack #1/Effects/BulletsSpriteSheetYellow.png using Guid(c05e8171e1e97804ea3c456f394ba25a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5e7d837728af1bc2a07aff4b1ec1b3a') in 0.019030 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000053 seconds.
+  path: Assets/Galaxia Sprite Pack #1/Effects/LaserSpriteSheetGreen.png
+  artifactKey: Guid(3adc669597747574c931c03238b55b64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Galaxia Sprite Pack #1/Effects/LaserSpriteSheetGreen.png using Guid(3adc669597747574c931c03238b55b64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4352a31b57bab02980fb5d67ff02ed7') in 0.017856 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.451252 seconds.
+  path: Assets/Galaxia Sprite Pack #1/Enemy/idle_bomber_red.png
+  artifactKey: Guid(2891d59158f4f7e4c8d006fbc2e55cc9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Galaxia Sprite Pack #1/Enemy/idle_bomber_red.png using Guid(2891d59158f4f7e4c8d006fbc2e55cc9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87cd350ef5c0b4909ff0edd1dfea988a') in 0.066030 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.001294 seconds.
+  path: Assets/Galaxia Sprite Pack #1/Enemy/idle_drone_blue.png
+  artifactKey: Guid(125d5be502cbe3a418c97ea911b93155) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Galaxia Sprite Pack #1/Enemy/idle_drone_blue.png using Guid(125d5be502cbe3a418c97ea911b93155) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd2bc0df2f0153ff00f1c7e80f8e3c13') in 0.015369 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000096 seconds.
+  path: Assets/Galaxia Sprite Pack #1/Enemy/idle_drone_purple.png
+  artifactKey: Guid(278b61a9028b9194ba3d4eeadb00f4fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Galaxia Sprite Pack #1/Enemy/idle_drone_purple.png using Guid(278b61a9028b9194ba3d4eeadb00f4fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33eaad9fa77d780ee1f7f0448b230e19') in 0.018130 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000106 seconds.
+  path: Assets/Galaxia Sprite Pack #1/Enemy/idle_scout_red.png
+  artifactKey: Guid(f680e5047c3880e4285d455c7e341a44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Galaxia Sprite Pack #1/Enemy/idle_scout_red.png using Guid(f680e5047c3880e4285d455c7e341a44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '350a063fa039de1c05fab02222bd0242') in 0.018615 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000079 seconds.
+  path: Assets/Galaxia Sprite Pack #1/Enemy/idle_drone_green.png
+  artifactKey: Guid(441204ce661f32640838942da466ce4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Galaxia Sprite Pack #1/Enemy/idle_drone_green.png using Guid(441204ce661f32640838942da466ce4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55c99e74f4a946bd5b7e6e824841efac') in 0.017160 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000157 seconds.
+  path: Assets/Galaxia Sprite Pack #1/Enemy/idle_drone_orange.png
+  artifactKey: Guid(e0eb2fcf83877bc4397b3002bf39153c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Galaxia Sprite Pack #1/Enemy/idle_drone_orange.png using Guid(e0eb2fcf83877bc4397b3002bf39153c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb9718b223d4bb6d8511b60288e2328e') in 0.012013 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000067 seconds.
+  path: Assets/Galaxia Sprite Pack #1/Enemy/idle_scout_yellow.png
+  artifactKey: Guid(5500a4eb7184fed4eb5b5e505ffecd91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Galaxia Sprite Pack #1/Enemy/idle_scout_yellow.png using Guid(5500a4eb7184fed4eb5b5e505ffecd91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55b0f69d3ba034acb114493e0aab39fb') in 0.013533 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.695296 seconds.
+  path: Assets/Galaxia Sprite Pack #1/Player/idle_player_upgrade1.png
+  artifactKey: Guid(cab67442bb6328543af3dd33c6fa8780) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Galaxia Sprite Pack #1/Player/idle_player_upgrade1.png using Guid(cab67442bb6328543af3dd33c6fa8780) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a786442e8d6223c20292014950abbf1') in 0.022976 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000073 seconds.
+  path: Assets/Galaxia Sprite Pack #1/Player/idle_player_upgrade2.png
+  artifactKey: Guid(f116b41b25d35934fbe991d13657e019) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Galaxia Sprite Pack #1/Player/idle_player_upgrade2.png using Guid(f116b41b25d35934fbe991d13657e019) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11e03a8c4b8193e8b515ecc6fadc82bc') in 0.014092 seconds 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
