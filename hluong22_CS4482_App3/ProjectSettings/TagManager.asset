@@ -3,7 +3,16 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - playerBullet
+  - tier1Bullet
+  - tier1
+  - tier2
+  - tier3
+  - tier4
+  - tier2Bullet
+  - tier3Bullet
+  - tier4Bullet
   layers:
   - Default
   - TransparentFX

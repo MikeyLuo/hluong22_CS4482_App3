@@ -58,6 +58,8 @@
   <ItemGroup>
     <Compile Include="Assets/Scripts/backgroundScroll.cs" />
     <Compile Include="Assets/Scripts/playerMovement.cs" />
+    <Compile Include="Assets/Scripts/shooting.cs" />
+    <Compile Include="Assets/Scripts/EnemyMovement.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

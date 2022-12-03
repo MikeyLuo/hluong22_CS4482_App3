@@ -7,16 +7,27 @@ public class playerMovement : MonoBehaviour
     public float speed = 5f;
     public float minY, maxY;
 
+    [SerializeField]
+    private GameObject playerBullet;
+
+    [SerializeField]
+    private Transform bulletSpawn;
+
+    public float shootingCounter = 0.4f;
+    private float currentShootingCounter;
+    private bool shootingStatus;
+
     // Start is called before the first frame update
     void Start()
     {
-        
+        currentShootingCounter = shootingCounter;
     }
 
     // Update is called once per frame
     void Update()
     {
         movement();
+        shootingLimit();
     }
 
     void movement()
@@ -40,4 +51,23 @@ public class playerMovement : MonoBehaviour
             transform.position = tempPos;
         }
     }
+
+    void shootingLimit()
+    {
+        shootingCounter += Time.deltaTime;
+        if (shootingCounter > currentShootingCounter)
+        {
+            shootingStatus = true;
+        }
+        if (Input.GetKeyDown(KeyCode.Space))
+        {
+            if (shootingStatus)
+            {
+                shootingStatus = false;
+                shootingCounter = 0f;
+                Instantiate(playerBullet, bulletSpawn.position, Quaternion.identity);
+            }
+        }
+    }
+
 }
