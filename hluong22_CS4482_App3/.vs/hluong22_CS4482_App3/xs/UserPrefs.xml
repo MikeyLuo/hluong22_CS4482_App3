@@ -1,10 +1,14 @@
 ﻿<Properties StartupConfiguration="{0B256DF3-BCA0-205F-BCCC-3677BC04FCD9}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/EnemyMovement.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/playershooting.cs">
     <Files>
-      <File FileName="Assets/Scripts/playerMovement.cs" Line="69" Column="14" />
-      <File FileName="Assets/Scripts/backgroundScroll.cs" Line="26" Column="73" />
-      <File FileName="Assets/Scripts/shooting.cs" Line="13" Column="50" />
-      <File FileName="Assets/Scripts/EnemyMovement.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/playerMovement.cs" Line="219" Column="14" />
+      <File FileName="Assets/Scripts/shooting.cs" Line="31" Column="37" />
+      <File FileName="Assets/Scripts/tier1Movement.cs" Line="16" Column="38" />
+      <File FileName="Assets/Scripts/tier2Movement.cs" Line="30" Column="38" />
+      <File FileName="Assets/Scripts/tier3Movement2.cs" Line="28" Column="39" />
+      <File FileName="Assets/Scripts/tier4Movement.cs" Line="30" Column="39" />
+      <File FileName="Assets/Scripts/leaderboard.cs" Line="41" Column="6" />
+      <File FileName="Assets/Scripts/playershooting.cs" Line="28" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -12,7 +16,7 @@
           <Node name="hluong22_CS4482_App3" expanded="True">
             <Node name="Assets" expanded="True">
               <Node name="Scripts" expanded="True">
-                <Node name="EnemyMovement.cs" selected="True" />
+                <Node name="playershooting.cs" selected="True" />
               </Node>
             </Node>
           </Node>
@@ -22,7 +26,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="65ced52e-cd15-4d3d-b138-949a5198c6c9" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="045cb599-e8e0-4127-b05c-87232680fc1a" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

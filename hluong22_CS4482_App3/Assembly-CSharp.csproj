@@ -56,10 +56,17 @@
     <Analyzer Include="/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/MonoDevelop.Unity/Analyzers/Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets/Scripts/backgroundScroll.cs" />
-    <Compile Include="Assets/Scripts/playerMovement.cs" />
+    <Compile Include="Assets/Scripts/leaderboard.cs" />
+    <Compile Include="Assets/Scripts/tier4Movement.cs" />
     <Compile Include="Assets/Scripts/shooting.cs" />
-    <Compile Include="Assets/Scripts/EnemyMovement.cs" />
+    <Compile Include="Assets/Scripts/menuManager.cs" />
+    <Compile Include="Assets/Scripts/tier2Movement.cs" />
+    <Compile Include="Assets/Scripts/backgroundScroll.cs" />
+    <Compile Include="Assets/Scripts/tier3Movement.cs" />
+    <Compile Include="Assets/Scripts/pauseMenu.cs" />
+    <Compile Include="Assets/Scripts/tier1Movement.cs" />
+    <Compile Include="Assets/Scripts/playerMovement.cs" />
+    <Compile Include="Assets/Scripts/playershooting.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

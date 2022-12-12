@@ -22,7 +22,7 @@ public class shooting : MonoBehaviour
     void shootMechanics()
     {
         Vector3 bulletPos = transform.position;
-        bulletPos.x += speed * Time.deltaTime;
+        bulletPos.x -= speed * Time.deltaTime;
         transform.position = bulletPos;
     }
 

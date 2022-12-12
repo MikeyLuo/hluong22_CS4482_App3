@@ -9,7 +9,6 @@ TagManager:
   - tier1
   - tier2
   - tier3
-  - tier4
   - tier2Bullet
   - tier3Bullet
   - tier4Bullet
@@ -49,4 +48,7 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: New Layer 1
+    uniqueID: 3056476247
     locked: 0
